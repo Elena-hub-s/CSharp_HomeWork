@@ -1,0 +1,7 @@
+C:\Users\User\Source\Repos\FifthHomeWork\Example1\bin\Debug\Example1.exe.config
+C:\Users\User\Source\Repos\FifthHomeWork\Example1\bin\Debug\Example1.exe
+C:\Users\User\Source\Repos\FifthHomeWork\Example1\bin\Debug\Example1.pdb
+C:\Users\User\Source\Repos\FifthHomeWork\Example1\obj\Debug\Example1.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\FifthHomeWork\Example1\obj\Debug\Example1.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\FifthHomeWork\Example1\obj\Debug\Example1.exe
+C:\Users\User\Source\Repos\FifthHomeWork\Example1\obj\Debug\Example1.pdb
