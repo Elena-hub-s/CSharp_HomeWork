@@ -1,0 +1,9 @@
+C:\GeekBrains_C-sharp_Basics-master\GeekBrains_CSharpBasics_Ln8_Tsk5\bin\Debug\GeekBrains_CSharpBasics_Ln8_Tsk5.exe.config
+C:\GeekBrains_C-sharp_Basics-master\GeekBrains_CSharpBasics_Ln8_Tsk5\bin\Debug\GeekBrains_CSharpBasics_Ln8_Tsk5.exe
+C:\GeekBrains_C-sharp_Basics-master\GeekBrains_CSharpBasics_Ln8_Tsk5\bin\Debug\GeekBrains_CSharpBasics_Ln8_Tsk5.pdb
+C:\GeekBrains_C-sharp_Basics-master\GeekBrains_CSharpBasics_Ln8_Tsk5\obj\Debug\GeekBrains_CSharpBasics_Ln8_Tsk5.MainForm.resources
+C:\GeekBrains_C-sharp_Basics-master\GeekBrains_CSharpBasics_Ln8_Tsk5\obj\Debug\GeekBrains_CSharpBasics_Ln8_Tsk5.Properties.Resources.resources
+C:\GeekBrains_C-sharp_Basics-master\GeekBrains_CSharpBasics_Ln8_Tsk5\obj\Debug\GeekBrains_CSharpBasics_Ln8_Tsk5.csproj.GenerateResource.cache
+C:\GeekBrains_C-sharp_Basics-master\GeekBrains_CSharpBasics_Ln8_Tsk5\obj\Debug\GeekBrains_CSharpBasics_Ln8_Tsk5.csproj.CoreCompileInputs.cache
+C:\GeekBrains_C-sharp_Basics-master\GeekBrains_CSharpBasics_Ln8_Tsk5\obj\Debug\GeekBrains_CSharpBasics_Ln8_Tsk5.exe
+C:\GeekBrains_C-sharp_Basics-master\GeekBrains_CSharpBasics_Ln8_Tsk5\obj\Debug\GeekBrains_CSharpBasics_Ln8_Tsk5.pdb
