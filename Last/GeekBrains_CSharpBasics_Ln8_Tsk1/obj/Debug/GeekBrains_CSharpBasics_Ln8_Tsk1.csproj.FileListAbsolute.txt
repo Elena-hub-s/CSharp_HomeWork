@@ -1,0 +1,7 @@
+C:\GeekBrains_C-sharp_Basics-master\GeekBrains_CSharpBasics_Ln8_Tsk1\bin\Debug\GeekBrains_CSharpBasics_Ln8_Tsk1.exe.config
+C:\GeekBrains_C-sharp_Basics-master\GeekBrains_CSharpBasics_Ln8_Tsk1\bin\Debug\GeekBrains_CSharpBasics_Ln8_Tsk1.exe
+C:\GeekBrains_C-sharp_Basics-master\GeekBrains_CSharpBasics_Ln8_Tsk1\bin\Debug\GeekBrains_CSharpBasics_Ln8_Tsk1.pdb
+C:\GeekBrains_C-sharp_Basics-master\GeekBrains_CSharpBasics_Ln8_Tsk1\obj\Debug\GeekBrains_CSharpBasics_Ln8_Tsk1.csprojAssemblyReference.cache
+C:\GeekBrains_C-sharp_Basics-master\GeekBrains_CSharpBasics_Ln8_Tsk1\obj\Debug\GeekBrains_CSharpBasics_Ln8_Tsk1.csproj.CoreCompileInputs.cache
+C:\GeekBrains_C-sharp_Basics-master\GeekBrains_CSharpBasics_Ln8_Tsk1\obj\Debug\GeekBrains_CSharpBasics_Ln8_Tsk1.exe
+C:\GeekBrains_C-sharp_Basics-master\GeekBrains_CSharpBasics_Ln8_Tsk1\obj\Debug\GeekBrains_CSharpBasics_Ln8_Tsk1.pdb
